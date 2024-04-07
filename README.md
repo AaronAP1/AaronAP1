@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron Aquino</h1>
 <h3 align="center">Actualmente desarrollador Back-end :)</h3>
 
-- 🔭 Actualmente Trabajando en [CLV](aaronap.online)
+- 🔭 Actualmente desarrollando un proyecto [CLV](aaronap.online)
 
 - 🌱 Actualmente Aprendiendo **Go (Golang)**
 
