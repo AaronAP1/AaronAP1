@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente Trabajando en [CLV](aaronap.online)
 
-- 🌱 I’m currently learning **Go (Golang)**
+- 🌱 Actualmente Aprendiendo **Go (Golang)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
