@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente desarrollando un proyecto [CLV](aaronap.online)
 
-- 🌱 Actualmente Aprendiendo **Go (Golang)**
+- 🌱 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
