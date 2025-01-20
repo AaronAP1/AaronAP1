@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Aquino</h1>
-<h3 align="center">Actualmente desarrollador Back-end :)</h3>
+<h3 align="center">Desarrollador</h3>
 
 - 🔭 Actualmente desarrollando un proyecto [CLV](aaronap.online)
 
