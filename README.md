@@ -1,9 +1,9 @@
 <h1 align="center">Hello Aaron Aquino</h1>
 <h3 align="center">Desarrollador FullStack</h3>
 
-- 🔭 Actualmente desarrollando un proyecto [CLV](aaronap.online)
+- 🔭 Actualmente Aprendiendo sobre IA (code)
 
-- 🌱 
+- 🌱 si
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
