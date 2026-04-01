@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Aquino</h1>
-<h3 align="center">Full Stack Developer | Backend, Cloud & Scalable Systems</h3>
+<h3 align="center">Backend Developer, Cloud & Scalable Systems</h3>
 
 <p align="center">
   🚀 Building scalable backend systems and cloud-native applications<br/>
